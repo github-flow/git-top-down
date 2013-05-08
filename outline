@@ -1,0 +1,62 @@
+```
+	Workflows!
+    	Internals!
+Tips & Tricks!
+  Resolving conflicts!
+	   Reading git output!
+```
+
+# Git - Top down!
+
+* github-feature workflow
+* hub-feature by hand
+* conflict scenarios and resolution
+* git internals
+* git tips & tricks
+
+Why top-down? Top to use efficiently, down for leaky abstractions.
+
+## github-feature
+
+* install
+* clone
+* start
+* update
+* review
+* finish
+
+## features by hand
+
+* start
+* update
+* review
+* finish
+
+## Conflict
+
+* ours
+* theirs
+* merge markers
+* bailing
+  * cherry-pick
+* pretty rebase
+
+## Internals
+
+* hashes
+* objects
+* trees
+* commits
+* commitishes
+* packs
+
+## Tips & Tricks
+
+* completion
+* colorize
+* show-branch
+* plog
+  * --since
+  * -[n]
+  * --author
+
